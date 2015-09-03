@@ -1,0 +1,209 @@
+TMPPortProcess
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/PrecompiledHeaders/AppKit-byatkhzgqklcxvgxjrutfxwjsilq/AppKit.h.pch /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/MPPortProcess.o /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPPortProcess.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/SimpleLog.o /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/SimpleLog.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPPortProcess normal x86_64
+cCodeSign /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPPortProcess
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000053472AF200000000000000AA
+t1397172978
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c000000005274213E00000000000004B3
+t1383342398
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005274213E00000000000001DE
+t1383342398
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000005274213E000000000000197F
+t1383342398
+s6527
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005274214000000000000C4C54
+t1383342400
+s805972
+
+N/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPPortProcess.m
+c00000000559C1E670000000000000D4C
+t1436294759
+s3404
+
+N/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/SimpleLog.m
+c00000000559AB7710000000000000805
+t1436202865
+s2053
+
+N/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/MPPortProcess.LinkFileList
+c0000000055A40560000000000000013C
+t1436812640
+s316
+
+N/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/MPPortProcess.o
+t1436812645
+s8968
+
+N/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/SimpleLog.o
+t1436812645
+s4216
+
+N/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/PrecompiledHeaders/AppKit-byatkhzgqklcxvgxjrutfxwjsilq/AppKit.h.pch
+t1436812645
+s12925016
+
+N/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPPortProcess
+t1436812646
+s14776
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies079b72e03c54bb41^639a8de03c54bb41^---0#1#1#--18"Check dependencies36"E3DAC1D6-A3FF-4090-AB51-21C5B8BEB98A-
+
+CCodeSign /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPPortProcess
+s458505446.106060
+e458505446.205195
+r1
+xCodeSign
+x/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPPortProcess
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"[1mCodeSign[0m [1m/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPPortProcess[0m110"[1mCodeSign[0m [1m/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPPortProcess[0mc2311be63c54bb41^0e8834e63c54bb41^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPPortProcess0000000000000000^532"[1mCodeSign[0m [1m/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPPortProcess[0m    cd /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    Using code signing identity "Self-signed Applications"    /usr/bin/codesign --force --sign 6A52BE62749C0FF3D3192D010737A433423C0513 /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPPortProcess36"AC6E823D-4793-4404-A650-E740FBC7C076-
+b5E977F41-8EEC-4679-BF89-D8EF0A67FDBD
+
+CCompileC /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/MPPortProcess.o /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPPortProcess.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s458505445.640539
+e458505445.728303
+r1
+xCompileC
+x/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/MPPortProcess.o
+x/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPPortProcess.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPPortProcess.m
+d/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPPortProcess.h
+d/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/SimpleLog.h
+o[1m/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPPortProcess.m:84:43: [0m[0;1;35mwarning: [0m[1m
+o      'defaultConnection' is deprecated [-Wdeprecated-declarations][0m
+o    portProcessConnection = [NSConnection defaultConnection];
+o[0;1;32m                                          ^
+o[0mIn file included from /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPPortProcess.m:1:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:10:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:115:
+o[1m/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSConnection.h:51:1: [0m[0;1;30mnote: [0m
+o      method 'defaultConnection' declared here[0m
+o+ (NSConnection *)defaultConnection NS_DEPRECATED(10_0, 10_6, NA, NA);
+o[0;1;32m^
+o[0m1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPPortProcess.m270"[1mCompileC[0m /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/MPPortProcess.o [1mMPPortProcess.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler4c19a4e53c54bb41^9b71bae53c54bb41^-1144"[1m/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPPortProcess.m:84:43: [0m[0;1;35mwarning: [0m[1m      'defaultConnection' is deprecated [-Wdeprecated-declarations][0m    portProcessConnection = [NSConnection defaultConnection];[0;1;32m                                          ^[0mIn file included from /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPPortProcess.m:1:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:10:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:115:[1m/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSConnection.h:51:1: [0m[0;1;30mnote: [0m      method 'defaultConnection' declared here[0m+ (NSConnection *)defaultConnection NS_DEPRECATED(10_0, 10_6, NA, NA);[0;1;32m^[0m1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@33"'defaultConnection' is deprecated-458505445#18446744073709551615#0#1(2@40"Method 'defaultConnection' declared here-458505445#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@175"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSConnection.h0000000000000000^50#0#50#0#1237#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPPortProcess.m0000000000000000^83#42#83#42#2598#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@79"file:///Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPPortProcess.m0000000000000000^3444"[1mCompileC[0m /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/MPPortProcess.o [1mMPPortProcess.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=101 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -fvisibility=hidden -Wno-sign-conversion -iquote /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/MPPortProcess-generated-files.hmap -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/MPPortProcess-own-target-headers.hmap -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/MPPortProcess-all-target-headers.hmap -iquote /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/MPPortProcess-project-headers.hmap -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/DerivedSources/x86_64 -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/DerivedSources -F/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug -include /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/PrecompiledHeaders/AppKit-byatkhzgqklcxvgxjrutfxwjsilq/AppKit.h -MMD -MT dependencies -MF /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/MPPortProcess.d --serialize-diagnostics /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/MPPortProcess.dia -c /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPPortProcess.m -o /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/MPPortProcess.o36"BB514310-8B57-4A73-BD9D-3E47795E9A2E-
+b5E977F41-8EEC-4679-BF89-D8EF0A67FDBD
+
+CCompileC /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/SimpleLog.o /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/SimpleLog.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s458505445.641018
+e458505445.718377
+r1
+xCompileC
+x/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/SimpleLog.o
+x/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/SimpleLog.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/SimpleLog.m
+d/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/SimpleLog.h
+o[1m/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/SimpleLog.m:71:15: [0m[0;1;35mwarning: [0m[1minstance method
+o      '-sendIPCNotification:' not found (return type defaults to 'id') [-Wobjc-method-access][0m
+o    [theProxy sendIPCNotification:data];
+o[0;1;32m              ^~~~~~~~~~~~~~~~~~~
+o[0m1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/SimpleLog.m262"[1mCompileC[0m /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/SimpleLog.o [1mSimpleLog.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler732fa4e53c54bb41^c0e7b7e53c54bb41^-333"[1m/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/SimpleLog.m:71:15: [0m[0;1;35mwarning: [0m[1minstance method      '-sendIPCNotification:' not found (return type defaults to 'id') [-Wobjc-method-access][0m    [theProxy sendIPCNotification:data];[0;1;32m              ^~~~~~~~~~~~~~~~~~~[0m1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@80"Instance method '-sendIPCNotification:' not found (return type defaults to 'id')-458505445#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@75"file:///Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/SimpleLog.m0000000000000000^70#14#70#14#1967#0#14"Semantic Issue1(3@75"file:///Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/SimpleLog.m0000000000000000^70#14#70#33#1967#0#-0#0#1#-19%DVTDocumentLocation4@75"file:///Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/SimpleLog.m0000000000000000^3420"[1mCompileC[0m /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/SimpleLog.o [1mSimpleLog.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=101 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -fvisibility=hidden -Wno-sign-conversion -iquote /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/MPPortProcess-generated-files.hmap -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/MPPortProcess-own-target-headers.hmap -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/MPPortProcess-all-target-headers.hmap -iquote /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/MPPortProcess-project-headers.hmap -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/DerivedSources/x86_64 -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/DerivedSources -F/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug -include /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/PrecompiledHeaders/AppKit-byatkhzgqklcxvgxjrutfxwjsilq/AppKit.h -MMD -MT dependencies -MF /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/SimpleLog.d --serialize-diagnostics /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/SimpleLog.dia -c /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/SimpleLog.m -o /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/SimpleLog.o36"0A54F269-72FB-4112-8AD3-36B558A55445-
+b5E977F41-8EEC-4679-BF89-D8EF0A67FDBD
+
+CLd /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPPortProcess normal x86_64
+s458505445.728964
+e458505446.105285
+r1
+xLd
+x/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPPortProcess
+xnormal
+xx86_64
+d/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/MPPortProcess.LinkFileList
+d/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/MPPortProcess.o
+d/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/SimpleLog.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/opt/local/libexec/macports/lib/libtcl8.5.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Link /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPPortProcess110"[1mLd[0m /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPPortProcess normal x86_640fb4bae53c54bb41^17f41ae63c54bb41^---0#0#1#--8105"[1mLd[0m /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPPortProcess normal x86_64    cd /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework    export MACOSX_DEPLOYMENT_TARGET=10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug -L/opt/local/libexec/macports/lib -L/opt/local/libexec/macports/lib/darwintrace1.0 -L/opt/local/libexec/macports/lib/machista1.0 -L/opt/local/libexec/macports/lib/macports1.0 -L/opt/local/libexec/macports/lib/package1.0 -L/opt/local/libexec/macports/lib/pextlib1.0 -L/opt/local/libexec/macports/lib/port1.0 -L/opt/local/libexec/macports/lib/registry2.0 -L/opt/local/libexec/macports/lib/tcl8 -L/opt/local/libexec/macports/lib/tcl8.5 -L/opt/local/libexec/macports/lib/tcllib1.15 -L/opt/local/libexec/macports/lib/tclx8.4 -L/opt/local/libexec/macports/lib/thread2.7.0 -L/opt/local/libexec/macports/lib/tcl8/8.4 -L/opt/local/libexec/macports/lib/tcl8/8.5 -L/opt/local/libexec/macports/lib/tcl8.5/encoding -L/opt/local/libexec/macports/lib/tcl8.5/http1.0 -L/opt/local/libexec/macports/lib/tcl8.5/msgs -L/opt/local/libexec/macports/lib/tcl8.5/opt0.4 -L/opt/local/libexec/macports/lib/tcllib1.15/aes -L/opt/local/libexec/macports/lib/tcllib1.15/amazon-s3 -L/opt/local/libexec/macports/lib/tcllib1.15/asn -L/opt/local/libexec/macports/lib/tcllib1.15/base32 -L/opt/local/libexec/macports/lib/tcllib1.15/base64 -L/opt/local/libexec/macports/lib/tcllib1.15/bee -L/opt/local/libexec/macports/lib/tcllib1.15/bench -L/opt/local/libexec/macports/lib/tcllib1.15/bibtex -L/opt/local/libexec/macports/lib/tcllib1.15/blowfish -L/opt/local/libexec/macports/lib/tcllib1.15/cache -L/opt/local/libexec/macports/lib/tcllib1.15/clock -L/opt/local/libexec/macports/lib/tcllib1.15/cmdline -L/opt/local/libexec/macports/lib/tcllib1.15/comm -L/opt/local/libexec/macports/lib/tcllib1.15/control -L/opt/local/libexec/macports/lib/tcllib1.15/coroutine -L/opt/local/libexec/macports/lib/tcllib1.15/counter -L/opt/local/libexec/macports/lib/tcllib1.15/crc -L/opt/local/libexec/macports/lib/tcllib1.15/csv -L/opt/local/libexec/macports/lib/tcllib1.15/des -L/opt/local/libexec/macports/lib/tcllib1.15/dns -L/opt/local/libexec/macports/lib/tcllib1.15/docstrip -L/opt/local/libexec/macports/lib/tcllib1.15/doctools -L/opt/local/libexec/macports/lib/tcllib1.15/doctools2base -L/opt/local/libexec/macports/lib/tcllib1.15/doctools2idx -L/opt/local/libexec/macports/lib/tcllib1.15/doctools2toc -L/opt/local/libexec/macports/lib/tcllib1.15/fileutil -L/opt/local/libexec/macports/lib/tcllib1.15/ftp -L/opt/local/libexec/macports/lib/tcllib1.15/ftpd -L/opt/local/libexec/macports/lib/tcllib1.15/fumagic -L/opt/local/libexec/macports/lib/tcllib1.15/generator -L/opt/local/libexec/macports/lib/tcllib1.15/gpx -L/opt/local/libexec/macports/lib/tcllib1.15/grammar_aycock -L/opt/local/libexec/macports/lib/tcllib1.15/grammar_fa -L/opt/local/libexec/macports/lib/tcllib1.15/grammar_me -L/opt/local/libexec/macports/lib/tcllib1.15/grammar_peg -L/opt/local/libexec/macports/lib/tcllib1.15/hook -L/opt/local/libexec/macports/lib/tcllib1.15/html -L/opt/local/libexec/macports/lib/tcllib1.15/htmlparse -L/opt/local/libexec/macports/lib/tcllib1.15/http -L/opt/local/libexec/macports/lib/tcllib1.15/ident -L/opt/local/libexec/macports/lib/tcllib1.15/imap4 -L/opt/local/libexec/macports/lib/tcllib1.15/inifile -L/opt/local/libexec/macports/lib/tcllib1.15/interp -L/opt/local/libexec/macports/lib/tcllib1.15/irc -L/opt/local/libexec/macports/lib/tcllib1.15/javascript -L/opt/local/libexec/macports/lib/tcllib1.15/jpeg -L/opt/local/libexec/macports/lib/tcllib1.15/json -L/opt/local/libexec/macports/lib/tcllib1.15/lambda -L/opt/local/libexec/macports/lib/tcllib1.15/ldap -L/opt/local/libexec/macports/lib/tcllib1.15/log -L/opt/local/libexec/macports/lib/tcllib1.15/map -L/opt/local/libexec/macports/lib/tcllib1.15/mapproj -L/opt/local/libexec/macports/lib/tcllib1.15/math -L/opt/local/libexec/macports/lib/tcllib1.15/md4 -L/opt/local/libexec/macports/lib/tcllib1.15/md5 -L/opt/local/libexec/macports/lib/tcllib1.15/md5crypt -L/opt/local/libexec/macports/lib/tcllib1.15/mime -L/opt/local/libexec/macports/lib/tcllib1.15/multiplexer -L/opt/local/libexec/macports/lib/tcllib1.15/namespacex -L/opt/local/libexec/macports/lib/tcllib1.15/ncgi -L/opt/local/libexec/macports/lib/tcllib1.15/nmea -L/opt/local/libexec/macports/lib/tcllib1.15/nns -L/opt/local/libexec/macports/lib/tcllib1.15/nntp -L/opt/local/libexec/macports/lib/tcllib1.15/ntp -L/opt/local/libexec/macports/lib/tcllib1.15/ooutil -L/opt/local/libexec/macports/lib/tcllib1.15/otp -L/opt/local/libexec/macports/lib/tcllib1.15/page -L/opt/local/libexec/macports/lib/tcllib1.15/pki -L/opt/local/libexec/macports/lib/tcllib1.15/pluginmgr -L/opt/local/libexec/macports/lib/tcllib1.15/png -L/opt/local/libexec/macports/lib/tcllib1.15/pop3 -L/opt/local/libexec/macports/lib/tcllib1.15/pop3d -L/opt/local/libexec/macports/lib/tcllib1.15/profiler -L/opt/local/libexec/macports/lib/tcllib1.15/pt -L/opt/local/libexec/macports/lib/tcllib1.15/rc4 -L/opt/local/libexec/macports/lib/tcllib1.15/rcs -L/opt/local/libexec/macports/lib/tcllib1.15/report -L/opt/local/libexec/macports/lib/tcllib1.15/rest -L/opt/local/libexec/macports/lib/tcllib1.15/ripemd -L/opt/local/libexec/macports/lib/tcllib1.15/sasl -L/opt/local/libexec/macports/lib/tcllib1.15/sha1 -L/opt/local/libexec/macports/lib/tcllib1.15/simulation -L/opt/local/libexec/macports/lib/tcllib1.15/smtpd -L/opt/local/libexec/macports/lib/tcllib1.15/snit -L/opt/local/libexec/macports/lib/tcllib1.15/soundex -L/opt/local/libexec/macports/lib/tcllib1.15/stooop -L/opt/local/libexec/macports/lib/tcllib1.15/stringprep -L/opt/local/libexec/macports/lib/tcllib1.15/struct -L/opt/local/libexec/macports/lib/tcllib1.15/tar -L/opt/local/libexec/macports/lib/tcllib1.15/tepam -L/opt/local/libexec/macports/lib/tcllib1.15/term -L/opt/local/libexec/macports/lib/tcllib1.15/textutil -L/opt/local/libexec/macports/lib/tcllib1.15/tie -L/opt/local/libexec/macports/lib/tcllib1.15/tiff -L/opt/local/libexec/macports/lib/tcllib1.15/transfer -L/opt/local/libexec/macports/lib/tcllib1.15/treeql -L/opt/local/libexec/macports/lib/tcllib1.15/try -L/opt/local/libexec/macports/lib/tcllib1.15/uev -L/opt/local/libexec/macports/lib/tcllib1.15/units -L/opt/local/libexec/macports/lib/tcllib1.15/uri -L/opt/local/libexec/macports/lib/tcllib1.15/uuid -L/opt/local/libexec/macports/lib/tcllib1.15/valtype -L/opt/local/libexec/macports/lib/tcllib1.15/virtchannel_base -L/opt/local/libexec/macports/lib/tcllib1.15/virtchannel_core -L/opt/local/libexec/macports/lib/tcllib1.15/virtchannel_transform -L/opt/local/libexec/macports/lib/tcllib1.15/wip -L/opt/local/libexec/macports/lib/tcllib1.15/yaml -L/opt/local/libexec/macports/lib/tcllib1.15/zip -L/opt/local/libexec/macports/lib/tcl8/8.4/platform -L/opt/local/libexec/macports/lib/tcllib1.15/dns/msgs -L/opt/local/libexec/macports/lib/tcllib1.15/doctools/mpformats -L/opt/local/libexec/macports/lib/tcllib1.15/log/msgs -L/opt/local/libexec/macports/lib/tcllib1.15/page/plugins -L/opt/local/libexec/macports/lib/tcllib1.15/term/ansi -L/opt/local/libexec/macports/lib/tcllib1.15/term/ansi/code -F/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug -filelist /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/MPPortProcess.LinkFileList -mmacosx-version-min=10.8 -framework Foundation -framework AppKit -I/opt/local/libexec/macports/include -L/opt/local/libexec/macports/lib -ltcl8.5 -fobjc-link-runtime -framework Foundation -Xlinker -dependency_info -Xlinker /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/Objects-normal/x86_64/MPPortProcess_dependency_info.dat -o /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPPortProcess36"7666D133-CAF0-4801-9B19-865722F097CE-
+b5E977F41-8EEC-4679-BF89-D8EF0A67FDBD
+
+CProcessPCH /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/PrecompiledHeaders/AppKit-byatkhzgqklcxvgxjrutfxwjsilq/AppKit.h.pch /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s458505440.554181
+e458505445.639561
+r1
+xProcessPCH
+x/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/PrecompiledHeaders/AppKit-byatkhzgqklcxvgxjrutfxwjsilq/AppKit.h.pch
+x/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection169"Precompile /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h394"[1mProcessPCH[0m /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/PrecompiledHeaders/AppKit-byatkhzgqklcxvgxjrutfxwjsilq/AppKit.h.pch [1m/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler03098ee03c54bb41^b2bca3e53c54bb41^---0#0#1#-19%DVTDocumentLocation2@165"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h0000000000000000^3450"[1mProcessPCH[0m /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/PrecompiledHeaders/AppKit-byatkhzgqklcxvgxjrutfxwjsilq/AppKit.h.pch [1m/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=101 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -fvisibility=hidden -Wno-sign-conversion -iquote /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/MPPortProcess-generated-files.hmap -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/MPPortProcess-own-target-headers.hmap -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/MPPortProcess-all-target-headers.hmap -iquote /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/MPPortProcess-project-headers.hmap -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/DerivedSources/x86_64 -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPPortProcess.build/DerivedSources -F/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug --serialize-diagnostics /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/PrecompiledHeaders/AppKit-byatkhzgqklcxvgxjrutfxwjsilq/AppKit.h.dia -MMD -MT dependencies -MF /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/PrecompiledHeaders/AppKit-byatkhzgqklcxvgxjrutfxwjsilq/AppKit.h.d -c /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h -o /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/PrecompiledHeaders/AppKit-byatkhzgqklcxvgxjrutfxwjsilq/AppKit.h.pch36"4E8FC665-9FB0-47AC-B728-3A03202E9291-
+b5E977F41-8EEC-4679-BF89-D8EF0A67FDBD
+

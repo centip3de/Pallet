@@ -1,0 +1,388 @@
+TMPHelperTool
+v6
+r1
+cCheck dependencies
+cCompileC /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/BetterAuthorizationSampleLib.o /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/BetterAuthorizationSampleLib.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperCommon.o /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperCommon.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperTool.o /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperTool.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperNotificationsCommon.o /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperNotificationsCommon.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPHelperTool normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000053472AF200000000000000AA
+t1397172978
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c000000005274213E00000000000004B3
+t1383342398
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005274213E00000000000001DE
+t1383342398
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000052742140000000000008163C
+t1383342400
+s529980
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005274214000000000000C4C54
+t1383342400
+s805972
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000052742142000000000006ECF4
+t1383342402
+s453876
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+c0000000052742145000000000000654C
+t1383342405
+s25932
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libobjc.dylib
+c000000005274214500000000000143EC
+t1383342405
+s82924
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+c00000000527421450000000000004528
+t1383342405
+s17704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+c0000000052742145000000000000EDB8
+t1383342405
+s60856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+c0000000052742145000000000000984C
+t1383342405
+s38988
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+c00000000527421450000000000004FEC
+t1383342405
+s20460
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+c00000000527421450000000000009F64
+t1383342405
+s40804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+c000000005274214500000000000031D0
+t1383342405
+s12752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+c000000005274214500000000000052E4
+t1383342405
+s21220
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+c00000000527421450000000000002D34
+t1383342405
+s11572
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+c000000005274214500000000000084E8
+t1383342405
+s34024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+c00000000527421450000000000004FF4
+t1383342405
+s20468
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+c000000005274214500000000000047A4
+t1383342405
+s18340
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+c00000000527421450000000000004364
+t1383342405
+s17252
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000527421450000000000002EF0
+t1383342405
+s12016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+c00000000527421450000000000046BB8
+t1383342405
+s289720
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+c000000005274214500000000000067BC
+t1383342405
+s26556
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+c0000000052742145000000000001AD9C
+t1383342405
+s109980
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000527421450000000000016C74
+t1383342405
+s93300
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+c0000000052742145000000000000F204
+t1383342405
+s61956
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+c00000000527421450000000000008EC8
+t1383342405
+s36552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000527421450000000000008B14
+t1383342405
+s35604
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+c000000005274214500000000000047C0
+t1383342405
+s18368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+c000000005274214500000000000044D8
+t1383342405
+s17624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+c000000005274214500000000000067AC
+t1383342405
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+c00000000527421450000000000011E4C
+t1383342405
+s73292
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+c0000000053472AE50000000000001770
+t1397172965
+s6000
+
+N/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/BetterAuthorizationSampleLib.c
+c00000000559AE20D0000000000014522
+t1436213773
+s83234
+
+N/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/BetterAuthorizationSampleLib.h
+c00000000559AB77100000000000092D8
+t1436202865
+s37592
+
+N/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperCommon.c
+c00000000559AB77200000000000002ED
+t1436202866
+s749
+
+N/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperCommon.h
+c00000000559AB7720000000000000692
+t1436202866
+s1682
+
+N/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperNotificationsCommon.c
+c00000000559AB7720000000000004483
+t1436202866
+s17539
+
+N/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperNotificationsCommon.h
+c00000000559AB77200000000000015F2
+t1436202866
+s5618
+
+N/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperNotificationsProtocol.h
+c00000000559AB7720000000000002171
+t1436202866
+s8561
+
+N/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperTool.m
+c0000000055B01796000000000000828D
+t1437603734
+s33421
+
+N/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/BetterAuthorizationSampleLib.o
+t1436812643
+s48392
+
+N/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperCommon.o
+t1436812643
+s728
+
+N/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperNotificationsCommon.o
+t1436812643
+s14024
+
+N/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperTool.LinkFileList
+c0000000055A405600000000000000299
+t1436812640
+s665
+
+N/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperTool.o
+t1437682320
+s30528
+
+N/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPHelperTool
+t1439401488
+s83936
+
+N/opt/local/libexec/macports/lib/libtcl8.5.dylib
+c000000005588856500000000000EC848
+t1435010405
+s968776
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd8f296457386bb41^25b2a3457386bb41^---0#1#1#--18"Check dependencies36"02158FE5-3981-43BB-83C7-59E1227929FE-
+
+CCodeSign /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPHelperTool
+s461094288.211553
+e461094288.352406
+r1
+xCodeSign
+x/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPHelperTool
+o/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPHelperTool: replacing existing signature
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"CodeSign /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPHelperTool93"CodeSign /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPHelperTool50353690bd7bbb41^9b375a90bd7bbb41^-115"/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPHelperTool: replacing existing signature-0#0#1#-19%DVTDocumentLocation2@91"file:///Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPHelperTool0000000000000000^508"CodeSign /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPHelperTool    cd /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    Using code signing identity "Pallet-Certificate"    /usr/bin/codesign --force --sign 6F1F851E3CAE7D59B19CD69B21270B8963AB2307 /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPHelperTool36"173741EA-738C-45AD-812D-044AE75378EA-
+b51FF8168-91B0-4CD7-933C-0A9D43B082FF
+
+CCompileC /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/BetterAuthorizationSampleLib.o /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/BetterAuthorizationSampleLib.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s458505440.553503
+e458505443.713381
+r1
+xCompileC
+x/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/BetterAuthorizationSampleLib.o
+x/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/BetterAuthorizationSampleLib.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/BetterAuthorizationSampleLib.c
+d/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/BetterAuthorizationSampleLib.h
+o[1m/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/BetterAuthorizationSampleLib.c:2140:18: [0m[0;1;35mwarning: [0m[1m
+o      'AuthorizationExecuteWithPrivileges' is deprecated: first deprecated in OS X 10.7
+o      [-Wdeprecated-declarations][0m
+o        retval = AuthorizationExecuteWithPrivileges(auth, args[0], kAuthorizationFlagDefaults...
+o[0;1;32m                 ^
+o[0mIn file included from /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/BetterAuthorizationSampleLib.c:53:
+oIn file included from /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/BetterAuthorizationSampleLib.h:51:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h:79:
+o[1m/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Security.framework/Headers/Authorization.h:435:10: [0m[0;1;30mnote: [0m
+o      'AuthorizationExecuteWithPrivileges' declared here[0m
+oOSStatus AuthorizationExecuteWithPrivileges(AuthorizationRef authorization,
+o[0;1;32m         ^
+o[0m1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/BetterAuthorizationSampleLib.c289"[1mCompileC[0m /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/BetterAuthorizationSampleLib.o [1mBetterAuthorizationSampleLib.c[0m normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler5bd28de03c54bb41^6aa3b6e33c54bb41^-1190"[1m/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/BetterAuthorizationSampleLib.c:2140:18: [0m[0;1;35mwarning: [0m[1m      'AuthorizationExecuteWithPrivileges' is deprecated: first deprecated in OS X 10.7      [-Wdeprecated-declarations][0m        retval = AuthorizationExecuteWithPrivileges(auth, args[0], kAuthorizationFlagDefaults...[0;1;32m                 ^[0mIn file included from /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/BetterAuthorizationSampleLib.c:53:In file included from /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/BetterAuthorizationSampleLib.h:51:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h:79:[1m/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Security.framework/Headers/Authorization.h:435:10: [0m[0;1;30mnote: [0m      'AuthorizationExecuteWithPrivileges' declared here[0mOSStatus AuthorizationExecuteWithPrivileges(AuthorizationRef authorization,[0;1;32m         ^[0m1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@81"'AuthorizationExecuteWithPrivileges' is deprecated: first deprecated in OS X 10.7-458505443#18446744073709551615#0#1(2@50"'AuthorizationExecuteWithPrivileges' declared here-458505443#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@174"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Security.framework/Headers/Authorization.h0000000000000000^434#9#434#9#22183#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@94"file:///Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/BetterAuthorizationSampleLib.c0000000000000000^2139#17#2139#17#71544#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@94"file:///Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/BetterAuthorizationSampleLib.c0000000000000000^3163"[1mCompileC[0m /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/BetterAuthorizationSampleLib.o [1mBetterAuthorizationSampleLib.c[0m normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=101 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -fvisibility=hidden -Wno-sign-conversion -iquote /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/MPHelperTool-generated-files.hmap -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/MPHelperTool-own-target-headers.hmap -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/MPHelperTool-all-target-headers.hmap -iquote /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/MPHelperTool-project-headers.hmap -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/DerivedSources/x86_64 -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/DerivedSources -F/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug -MMD -MT dependencies -MF /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/BetterAuthorizationSampleLib.d --serialize-diagnostics /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/BetterAuthorizationSampleLib.dia -c /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/BetterAuthorizationSampleLib.c -o /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/BetterAuthorizationSampleLib.o36"0E053A09-36B1-4C7D-A1C2-460BB5547F6C-
+b1EB920F6-07CD-4536-B2AD-25E3CED5F964
+
+CCompileC /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperCommon.o /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperCommon.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s458505440.553816
+e458505443.099329
+r1
+xCompileC
+x/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperCommon.o
+x/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperCommon.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperCommon.c
+d/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperCommon.h
+d/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/BetterAuthorizationSampleLib.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperCommon.c261"[1mCompileC[0m /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperCommon.o [1mMPHelperCommon.c[0m normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler51dc8de03c54bb41^1a6d19e33c54bb41^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperCommon.c0000000000000000^3079"[1mCompileC[0m /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperCommon.o [1mMPHelperCommon.c[0m normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=101 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -fvisibility=hidden -Wno-sign-conversion -iquote /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/MPHelperTool-generated-files.hmap -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/MPHelperTool-own-target-headers.hmap -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/MPHelperTool-all-target-headers.hmap -iquote /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/MPHelperTool-project-headers.hmap -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/DerivedSources/x86_64 -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/DerivedSources -F/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug -MMD -MT dependencies -MF /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperCommon.d --serialize-diagnostics /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperCommon.dia -c /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperCommon.c -o /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperCommon.o36"60D9B5D3-67B6-454B-8A75-ACD9D588BF69-
+b1EB920F6-07CD-4536-B2AD-25E3CED5F964
+
+CCompileC /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperNotificationsCommon.o /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperNotificationsCommon.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s458505440.555043
+e458505443.711848
+r1
+xCompileC
+x/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperNotificationsCommon.o
+x/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperNotificationsCommon.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperNotificationsCommon.c
+d/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperNotificationsCommon.h
+d/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperNotificationsProtocol.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperNotificationsCommon.c287"[1mCompileC[0m /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperNotificationsCommon.o [1mMPHelperNotificationsCommon.c[0m normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler16338ee03c54bb41^0c3db6e33c54bb41^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperNotificationsCommon.c0000000000000000^3157"[1mCompileC[0m /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperNotificationsCommon.o [1mMPHelperNotificationsCommon.c[0m normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=101 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -fvisibility=hidden -Wno-sign-conversion -iquote /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/MPHelperTool-generated-files.hmap -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/MPHelperTool-own-target-headers.hmap -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/MPHelperTool-all-target-headers.hmap -iquote /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/MPHelperTool-project-headers.hmap -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/DerivedSources/x86_64 -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/DerivedSources -F/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug -MMD -MT dependencies -MF /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperNotificationsCommon.d --serialize-diagnostics /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperNotificationsCommon.dia -c /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperNotificationsCommon.c -o /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperNotificationsCommon.o36"DC8618B5-B33F-400F-9C35-2BECFF56A59E-
+b1EB920F6-07CD-4536-B2AD-25E3CED5F964
+
+CCompileC /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperTool.o /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperTool.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s459375119.375761
+e459375120.534919
+r1
+xCompileC
+x/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperTool.o
+x/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperTool.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperTool.m
+d/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/BetterAuthorizationSampleLib.h
+d/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperCommon.h
+d/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperNotificationsProtocol.h
+d/Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperNotificationsCommon.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperTool.m267"[1mCompileC[0m /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperTool.o [1mMPHelperTool.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfa61600f8261bb41^34f388108261bb41^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperTool.m0000000000000000^3280"[1mCompileC[0m /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperTool.o [1mMPHelperTool.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=101 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -fvisibility=hidden -Wno-sign-conversion -iquote /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/MPHelperTool-generated-files.hmap -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/MPHelperTool-own-target-headers.hmap -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/MPHelperTool-all-target-headers.hmap -iquote /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/MPHelperTool-project-headers.hmap -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/DerivedSources/x86_64 -I/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/DerivedSources -F/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug -MMD -MT dependencies -MF /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperTool.d --serialize-diagnostics /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperTool.dia -c /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework/MPHelperTool.m -o /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperTool.o36"DEABB478-DA85-479B-A364-39B0E7F98864-
+b8DE22C0F-81AB-4E25-A083-B4F67E4D77CB
+
+CLd /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPHelperTool normal x86_64
+s459375120.536941
+e459375120.643239
+r1
+xLd
+x/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPHelperTool
+xnormal
+xx86_64
+d/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperTool.LinkFileList
+d/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/BetterAuthorizationSampleLib.o
+d/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperCommon.o
+d/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperTool.o
+d/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperNotificationsCommon.o
+d/opt/local/libexec/macports/lib/libtcl8.5.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Link /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPHelperTool109"[1mLd[0m /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPHelperTool normal x86_645b9889108261bb41^4baca4108261bb41^---0#0#1#--8105"[1mLd[0m /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPHelperTool normal x86_64    cd /Users/mrappleseed/GSoC/gsoc15-pallet/MacPorts_Framework    export MACOSX_DEPLOYMENT_TARGET=10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug -L/opt/local/libexec/macports/lib -L/opt/local/libexec/macports/lib/darwintrace1.0 -L/opt/local/libexec/macports/lib/machista1.0 -L/opt/local/libexec/macports/lib/macports1.0 -L/opt/local/libexec/macports/lib/package1.0 -L/opt/local/libexec/macports/lib/pextlib1.0 -L/opt/local/libexec/macports/lib/port1.0 -L/opt/local/libexec/macports/lib/registry2.0 -L/opt/local/libexec/macports/lib/tcl8 -L/opt/local/libexec/macports/lib/tcl8.5 -L/opt/local/libexec/macports/lib/tcllib1.15 -L/opt/local/libexec/macports/lib/tclx8.4 -L/opt/local/libexec/macports/lib/thread2.7.0 -L/opt/local/libexec/macports/lib/tcl8/8.4 -L/opt/local/libexec/macports/lib/tcl8/8.5 -L/opt/local/libexec/macports/lib/tcl8.5/encoding -L/opt/local/libexec/macports/lib/tcl8.5/http1.0 -L/opt/local/libexec/macports/lib/tcl8.5/msgs -L/opt/local/libexec/macports/lib/tcl8.5/opt0.4 -L/opt/local/libexec/macports/lib/tcllib1.15/aes -L/opt/local/libexec/macports/lib/tcllib1.15/amazon-s3 -L/opt/local/libexec/macports/lib/tcllib1.15/asn -L/opt/local/libexec/macports/lib/tcllib1.15/base32 -L/opt/local/libexec/macports/lib/tcllib1.15/base64 -L/opt/local/libexec/macports/lib/tcllib1.15/bee -L/opt/local/libexec/macports/lib/tcllib1.15/bench -L/opt/local/libexec/macports/lib/tcllib1.15/bibtex -L/opt/local/libexec/macports/lib/tcllib1.15/blowfish -L/opt/local/libexec/macports/lib/tcllib1.15/cache -L/opt/local/libexec/macports/lib/tcllib1.15/clock -L/opt/local/libexec/macports/lib/tcllib1.15/cmdline -L/opt/local/libexec/macports/lib/tcllib1.15/comm -L/opt/local/libexec/macports/lib/tcllib1.15/control -L/opt/local/libexec/macports/lib/tcllib1.15/coroutine -L/opt/local/libexec/macports/lib/tcllib1.15/counter -L/opt/local/libexec/macports/lib/tcllib1.15/crc -L/opt/local/libexec/macports/lib/tcllib1.15/csv -L/opt/local/libexec/macports/lib/tcllib1.15/des -L/opt/local/libexec/macports/lib/tcllib1.15/dns -L/opt/local/libexec/macports/lib/tcllib1.15/docstrip -L/opt/local/libexec/macports/lib/tcllib1.15/doctools -L/opt/local/libexec/macports/lib/tcllib1.15/doctools2base -L/opt/local/libexec/macports/lib/tcllib1.15/doctools2idx -L/opt/local/libexec/macports/lib/tcllib1.15/doctools2toc -L/opt/local/libexec/macports/lib/tcllib1.15/fileutil -L/opt/local/libexec/macports/lib/tcllib1.15/ftp -L/opt/local/libexec/macports/lib/tcllib1.15/ftpd -L/opt/local/libexec/macports/lib/tcllib1.15/fumagic -L/opt/local/libexec/macports/lib/tcllib1.15/generator -L/opt/local/libexec/macports/lib/tcllib1.15/gpx -L/opt/local/libexec/macports/lib/tcllib1.15/grammar_aycock -L/opt/local/libexec/macports/lib/tcllib1.15/grammar_fa -L/opt/local/libexec/macports/lib/tcllib1.15/grammar_me -L/opt/local/libexec/macports/lib/tcllib1.15/grammar_peg -L/opt/local/libexec/macports/lib/tcllib1.15/hook -L/opt/local/libexec/macports/lib/tcllib1.15/html -L/opt/local/libexec/macports/lib/tcllib1.15/htmlparse -L/opt/local/libexec/macports/lib/tcllib1.15/http -L/opt/local/libexec/macports/lib/tcllib1.15/ident -L/opt/local/libexec/macports/lib/tcllib1.15/imap4 -L/opt/local/libexec/macports/lib/tcllib1.15/inifile -L/opt/local/libexec/macports/lib/tcllib1.15/interp -L/opt/local/libexec/macports/lib/tcllib1.15/irc -L/opt/local/libexec/macports/lib/tcllib1.15/javascript -L/opt/local/libexec/macports/lib/tcllib1.15/jpeg -L/opt/local/libexec/macports/lib/tcllib1.15/json -L/opt/local/libexec/macports/lib/tcllib1.15/lambda -L/opt/local/libexec/macports/lib/tcllib1.15/ldap -L/opt/local/libexec/macports/lib/tcllib1.15/log -L/opt/local/libexec/macports/lib/tcllib1.15/map -L/opt/local/libexec/macports/lib/tcllib1.15/mapproj -L/opt/local/libexec/macports/lib/tcllib1.15/math -L/opt/local/libexec/macports/lib/tcllib1.15/md4 -L/opt/local/libexec/macports/lib/tcllib1.15/md5 -L/opt/local/libexec/macports/lib/tcllib1.15/md5crypt -L/opt/local/libexec/macports/lib/tcllib1.15/mime -L/opt/local/libexec/macports/lib/tcllib1.15/multiplexer -L/opt/local/libexec/macports/lib/tcllib1.15/namespacex -L/opt/local/libexec/macports/lib/tcllib1.15/ncgi -L/opt/local/libexec/macports/lib/tcllib1.15/nmea -L/opt/local/libexec/macports/lib/tcllib1.15/nns -L/opt/local/libexec/macports/lib/tcllib1.15/nntp -L/opt/local/libexec/macports/lib/tcllib1.15/ntp -L/opt/local/libexec/macports/lib/tcllib1.15/ooutil -L/opt/local/libexec/macports/lib/tcllib1.15/otp -L/opt/local/libexec/macports/lib/tcllib1.15/page -L/opt/local/libexec/macports/lib/tcllib1.15/pki -L/opt/local/libexec/macports/lib/tcllib1.15/pluginmgr -L/opt/local/libexec/macports/lib/tcllib1.15/png -L/opt/local/libexec/macports/lib/tcllib1.15/pop3 -L/opt/local/libexec/macports/lib/tcllib1.15/pop3d -L/opt/local/libexec/macports/lib/tcllib1.15/profiler -L/opt/local/libexec/macports/lib/tcllib1.15/pt -L/opt/local/libexec/macports/lib/tcllib1.15/rc4 -L/opt/local/libexec/macports/lib/tcllib1.15/rcs -L/opt/local/libexec/macports/lib/tcllib1.15/report -L/opt/local/libexec/macports/lib/tcllib1.15/rest -L/opt/local/libexec/macports/lib/tcllib1.15/ripemd -L/opt/local/libexec/macports/lib/tcllib1.15/sasl -L/opt/local/libexec/macports/lib/tcllib1.15/sha1 -L/opt/local/libexec/macports/lib/tcllib1.15/simulation -L/opt/local/libexec/macports/lib/tcllib1.15/smtpd -L/opt/local/libexec/macports/lib/tcllib1.15/snit -L/opt/local/libexec/macports/lib/tcllib1.15/soundex -L/opt/local/libexec/macports/lib/tcllib1.15/stooop -L/opt/local/libexec/macports/lib/tcllib1.15/stringprep -L/opt/local/libexec/macports/lib/tcllib1.15/struct -L/opt/local/libexec/macports/lib/tcllib1.15/tar -L/opt/local/libexec/macports/lib/tcllib1.15/tepam -L/opt/local/libexec/macports/lib/tcllib1.15/term -L/opt/local/libexec/macports/lib/tcllib1.15/textutil -L/opt/local/libexec/macports/lib/tcllib1.15/tie -L/opt/local/libexec/macports/lib/tcllib1.15/tiff -L/opt/local/libexec/macports/lib/tcllib1.15/transfer -L/opt/local/libexec/macports/lib/tcllib1.15/treeql -L/opt/local/libexec/macports/lib/tcllib1.15/try -L/opt/local/libexec/macports/lib/tcllib1.15/uev -L/opt/local/libexec/macports/lib/tcllib1.15/units -L/opt/local/libexec/macports/lib/tcllib1.15/uri -L/opt/local/libexec/macports/lib/tcllib1.15/uuid -L/opt/local/libexec/macports/lib/tcllib1.15/valtype -L/opt/local/libexec/macports/lib/tcllib1.15/virtchannel_base -L/opt/local/libexec/macports/lib/tcllib1.15/virtchannel_core -L/opt/local/libexec/macports/lib/tcllib1.15/virtchannel_transform -L/opt/local/libexec/macports/lib/tcllib1.15/wip -L/opt/local/libexec/macports/lib/tcllib1.15/yaml -L/opt/local/libexec/macports/lib/tcllib1.15/zip -L/opt/local/libexec/macports/lib/tcl8/8.4/platform -L/opt/local/libexec/macports/lib/tcllib1.15/dns/msgs -L/opt/local/libexec/macports/lib/tcllib1.15/doctools/mpformats -L/opt/local/libexec/macports/lib/tcllib1.15/log/msgs -L/opt/local/libexec/macports/lib/tcllib1.15/page/plugins -L/opt/local/libexec/macports/lib/tcllib1.15/term/ansi -L/opt/local/libexec/macports/lib/tcllib1.15/term/ansi/code -F/Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug -filelist /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperTool.LinkFileList -mmacosx-version-min=10.8 -I/opt/local/libexec/macports/include -L/opt/local/libexec/macports/lib -ltcl8.5 -fobjc-link-runtime -framework CoreFoundation -framework Foundation -framework Security -Xlinker -dependency_info -Xlinker /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Intermediates/MacPorts.Framework.build/Debug/MPHelperTool.build/Objects-normal/x86_64/MPHelperTool_dependency_info.dat -o /Users/mrappleseed/GSoC/gsoc15-pallet/Pallet/build/Build/Products/Debug/MPHelperTool36"FD240205-C626-484D-8DB1-28C27EF12A60-
+b8DE22C0F-81AB-4E25-A083-B4F67E4D77CB
+
